@@ -16,7 +16,7 @@ Working through problems on Kaggle.
 
 This repo will house some of the data challenges I've worked through using datasets found on the site kaggle.com. As an asipring data engineer, my primary focus is on data loading, extraction, cleaning, and transformation (usually according to the "tasks" that accompanied the datasets, and sometimes using multiple external datasets). While there are more powerful tools (e.g., Pandas) that would be better suited to solving data challenges on the job, these challenges will be implemented using only Python standard libraries.
 
-When working as part of any team, it's important for each person to have at least some understanding of the big picture--the same is true for data engineers working as part of a larger data team, which would include data scientists and anylists. To this end, cleaned and transformed datasets will be used to create dashboards using Tableau Public.     
+When working as part of any team, it's important for each person to have at least some understanding of the big picture. The same is true for data engineers who is part of a larger data team--which would include data scientists and anylists--working towards a larger goal. To this end, cleaned and transformed datasets will be turned into data stories, in the form of dashboards, using Tableau Public.     
 
 ## Getting Started
 
